@@ -46,4 +46,7 @@ button {
   cursor: pointer;
 }
 
-
+button:hover{
+  box-shadow: 0 0 10px #ff5e00;
+  transform: scale(-3px);
+}
